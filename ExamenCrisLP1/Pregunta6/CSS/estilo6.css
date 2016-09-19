@@ -1,0 +1,31 @@
+*{
+    background: rgba(204, 108, 49, 0.06);
+}
+
+a:focus{
+
+    color: firebrick;
+    text-decoration: none;
+}
+
+a:hover{
+    font-size: 200%;
+    color: burlywood;;
+    text-decoration: none;
+}
+
+p[class]{
+    color: darkslategrey;
+    background: rgba(160, 42, 42, 0.22);
+}
+
+p[id]{
+    color: blue;
+    background: rgba(49, 70, 54, 0.4);
+}
+
+article{
+    margin: 200px;
+    padding: 80px;
+    text-decoration: underline;
+}
